@@ -9,7 +9,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/Homework 1/Question 1",
             "console": "integratedTerminal",
-            "preLaunchTask": "build Q1"
+            "preLaunchTask": "build H1 Q1"
         },
         {
             "name": "C#: Question 2",
@@ -19,7 +19,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/Homework 1/Question 2",
             "console": "integratedTerminal",
-            "preLaunchTask": "build Q2"
+            "preLaunchTask": "build H1 Q2"
         },
         {
             "name": "C#: Question 3",
@@ -29,7 +29,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/Homework 1/Question 3",
             "console": "integratedTerminal",
-            "preLaunchTask": "build Q3"
+            "preLaunchTask": "build H1 Q3"
         },
         {
             "name": "C#: Question 4",
@@ -39,7 +39,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/Homework 1/Question 4",
             "console": "integratedTerminal",
-            "preLaunchTask": "build Q4"
+            "preLaunchTask": "build H1 Q4"
         },
         {
             "name": "C#: Question 5",
@@ -49,7 +49,57 @@
             "args": [],
             "cwd": "${workspaceFolder}/Homework 1/Question 5",
             "console": "integratedTerminal",
-            "preLaunchTask": "build Q5"
+            "preLaunchTask": "build H1 Q5"
+        },
+        {
+            "name": "C#: H2 Q1",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 2/Question 1/bin/Debug/net10.0/Question 1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 2/Question 1",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build H2 Q1"
+        },
+        {
+            "name": "C#: H2 Q2",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 2/Question 2/bin/Debug/net10.0/Question 2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 2/Question 2",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build H2 Q2"
+        },
+        {
+            "name": "C#: H2 Q3",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 2/Question 3/bin/Debug/net10.0/Question 3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 2/Question 3",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build H2 Q3"
+        },
+        {
+            "name": "C#: H2 Q4",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 2/Question 4/bin/Debug/net10.0/Question 4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 2/Question 4",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build H2 Q4"
+        },
+        {
+            "name": "C#: H2 Q5",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 2/Question 5/bin/Debug/net10.0/Question 5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 2/Question 5",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build H2 Q5"
         }
     ]
 }
