@@ -1,0 +1,55 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Question 1",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 1/Question 1/bin/Debug/net10.0/Question 1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 1/Question 1",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build Q1"
+        },
+        {
+            "name": "C#: Question 2",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 1/Question 2/bin/Debug/net10.0/Question 2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 1/Question 2",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build Q2"
+        },
+        {
+            "name": "C#: Question 3",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 1/Question 3/bin/Debug/net10.0/Question 3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 1/Question 3",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build Q3"
+        },
+        {
+            "name": "C#: Question 4",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 1/Question 4/bin/Debug/net10.0/Question 4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 1/Question 4",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build Q4"
+        },
+        {
+            "name": "C#: Question 5",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Homework 1/Question 5/bin/Debug/net10.0/Question 5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Homework 1/Question 5",
+            "console": "integratedTerminal",
+            "preLaunchTask": "build Q5"
+        }
+    ]
+}
