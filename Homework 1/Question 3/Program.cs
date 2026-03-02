@@ -1,7 +1,6 @@
 ﻿using System.Text;
 
 int number;
-long factorial;
 
 while (true)
 {
@@ -24,7 +23,6 @@ while (true)
         input = Console.ReadLine().Trim();
     }
 
-    factorial = 1;
     Console.WriteLine($"List of numbers from 1 to {number} (ascending): ");
     for (int i = 1; i <= number; i++)
         Console.Write($"{i} ");
