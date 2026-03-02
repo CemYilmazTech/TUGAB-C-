@@ -1,4 +1,4 @@
-﻿int side1, side2, side3;
+﻿float side1, side2, side3;
 
 while (true)
 {
@@ -14,19 +14,19 @@ while (true)
     string input3 = Console.ReadLine().Trim();
     if (input3.ToLower() == "exit") break;
 
-    if (!int.TryParse(input1, out side1) || side1 <= 0)
+    if (!float.TryParse(input1, out side1) || side1 <= 0)
     {
-        Console.WriteLine("Invalid input for the first side. Please enter a positive integer.\n");
+        Console.WriteLine("Invalid input for the first side. Please enter a positive number.\n");
         continue;
     }
-    if (!int.TryParse(input2, out side2) || side2 <= 0)
+    if (!float.TryParse(input2, out side2) || side2 <= 0)
     {
-        Console.WriteLine("Invalid input for the second side. Please enter a positive integer.\n");
+        Console.WriteLine("Invalid input for the second side. Please enter a positive number.\n");
         continue;
     }
-    if (!int.TryParse(input3, out side3) || side3 <= 0)
+    if (!float.TryParse(input3, out side3) || side3 <= 0)
     {
-        Console.WriteLine("Invalid input for the third side. Please enter a positive integer.\n");
+        Console.WriteLine("Invalid input for the third side. Please enter a positive number.\n");
         continue;
     }
 
