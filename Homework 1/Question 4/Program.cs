@@ -2,5 +2,5 @@
 
 for ( int i = 1; i < 15; i++)
 {
-    Console.WriteLine(i * 7);
+    Console.Write(i * 7 + " ");
 }
