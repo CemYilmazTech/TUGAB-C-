@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Multiples of 7 between 1 and 100:");
+
+for ( int i = 1; i < 15; i++)
+{
+    Console.WriteLine(i * 7);
+}
