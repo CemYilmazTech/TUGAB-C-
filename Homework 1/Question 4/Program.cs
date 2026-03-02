@@ -1,5 +1,5 @@
 ﻿double speedKmh;
-const double kmhToMs = 1000.0 / 3600.0; // Conversion factor from km/h to m/s
+const double kmhToMs = 1000.0 / 3600.0;
 
 while (true)
 {
@@ -23,5 +23,6 @@ while (true)
     }
 
     double speedMs = speedKmh * kmhToMs;
-    Console.WriteLine($"{speedKmh} km/h = {speedMs:F2} m/s\n");
+    Console.WriteLine($"{speedKmh} km/h = {speedMs:F2} m/s");
+    Console.WriteLine();
 }
