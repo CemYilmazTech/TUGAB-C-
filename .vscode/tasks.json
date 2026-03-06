@@ -30,13 +30,6 @@
             "problemMatcher": "$msCompile"
         },
         {
-            "label": "build H1 Q5",
-            "type": "process",
-            "command": "dotnet",
-            "args": ["build", "${workspaceFolder}/Homework 1/Question 5/Question 5.csproj"],
-            "problemMatcher": "$msCompile"
-        },
-        {
             "label": "build H2 Q1",
             "type": "process",
             "command": "dotnet",
@@ -69,6 +62,48 @@
             "type": "process",
             "command": "dotnet",
             "args": ["build", "${workspaceFolder}/Homework 2/Question 5/Question 5.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q1",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 1/Question 1.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q2",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 2/Question 2.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q3",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 3/Question 3.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q4",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 4/Question 4.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q5",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 5/Question 5.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H3 Q6",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 3/Question 6/Question 6.csproj"],
             "problemMatcher": "$msCompile"
         }
     ]
