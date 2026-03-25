@@ -105,6 +105,34 @@
             "command": "dotnet",
             "args": ["build", "${workspaceFolder}/Homework 3/Question 6/Question 6.csproj"],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H4 Q1",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 4/Question 1/Question 1.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H4 Q2",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 4/Question 2/Question 2.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H4 Q3",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 4/Question 3/Question 3.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H4 Q4",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 4/Question 4/Question 4.csproj"],
+            "problemMatcher": "$msCompile"
         }
     ]
 }
