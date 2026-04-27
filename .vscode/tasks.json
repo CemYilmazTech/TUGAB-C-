@@ -203,6 +203,55 @@
             "command": "dotnet",
             "args": ["build", "${workspaceFolder}/Homework 7/Question 3/Question 3.csproj"],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H8 Q1",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 8/Question 1/Question 1.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H8 Q2",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 8/Question 2/Question 2.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H8 Q3",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 8/Question 3/Question 3.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H9 Q1",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 9/Question 1/Question 1.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H9 Q2",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 9/Question 2/Question 2.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H9 Q3",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 9/Question 3/Question 3.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H9 Q4",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 9/Question 4/Question 4.csproj"],
+            "problemMatcher": "$msCompile"
         }
     ]
 }
