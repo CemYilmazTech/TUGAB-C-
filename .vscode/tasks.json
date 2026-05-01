@@ -252,6 +252,34 @@
             "command": "dotnet",
             "args": ["build", "${workspaceFolder}/Homework 9/Question 4/Question 4.csproj"],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H10 Q1",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 10/Question 1/Question 1.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H10 Q2",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 10/Question 2/Question 2.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H10 Q3",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 10/Question 3/Question 3.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build H10 Q4",
+            "type": "process",
+            "command": "dotnet",
+            "args": ["build", "${workspaceFolder}/Homework 10/Question 4/Question 4.csproj"],
+            "problemMatcher": "$msCompile"
         }
     ]
 }
