@@ -1,0 +1,15 @@
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\bin\Debug\net10.0\Question 4.exe
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\bin\Debug\net10.0\Question 4.deps.json
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\bin\Debug\net10.0\Question 4.runtimeconfig.json
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\bin\Debug\net10.0\Question 4.dll
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\bin\Debug\net10.0\Question 4.pdb
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.AssemblyInfoInputs.cache
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.AssemblyInfo.cs
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.sourcelink.json
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.dll
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\refint\Question 4.dll
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.pdb
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\Question 4.genruntimeconfig.cache
+C:\Users\Cem\Documents\Git\TUGAB C#\Homework 10\Question 4\obj\Debug\net10.0\ref\Question 4.dll
